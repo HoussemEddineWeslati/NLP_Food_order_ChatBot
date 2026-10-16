@@ -38,5 +38,5 @@
     </ul>
 
   <h2  align="left">Acknowledgments</h2>
-    <p  align="left">We would like to acknowledge the potential of conversational interfaces in simplifying the food ordering process and enhancing customer engagement.</p>
+    <p  align="left">This project was built while following the <a href="https://www.youtube.com/@codebasics">codebasics</a> NLP course; the <code>NLP Workshops</code> folder contains my exercise notebooks from that course. The database password is read from the <code>DB_PASSWORD</code> environment variable.</p>
 
